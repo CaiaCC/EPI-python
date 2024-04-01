@@ -25,7 +25,7 @@ def dutch_flag_partition(pivot_index: int, A: list[int]) -> None:
 '''
 
 '''
-1 pass, 2 pointers
+1 pass, 3 pointers
 Time: O(n)
 Space: O(1)
 '''
